@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\demo\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="G:\demo\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_5790489d47335d4e947f405f298c33a892e19f28.jar" />
+    </item>
+    <item
+        jar="G:\demo\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="G:\demo\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_4aaad8d5456ad939d443f9ef4e058e983a789fa9.jar" />
+    </item>
+    <item
+        jar="G:\demo\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="G:\demo\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_8b36ad084638e71b7fef1f0583940407421e2791.jar" />
+    </item>
+    <item
+        jar="G:\demo\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="G:\demo\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_2e76f90c1d16d50c794f082d5e12a633fc8a96fa.jar" />
+    </item>
+    <item
+        jar="G:\demo\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="G:\demo\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_b7c7a83e025e342dfb5789051b730ef9961ed6a1.jar" />
+    </item>
+    <item
+        jar="G:\demo\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="G:\demo\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_2f901cd73b4223501a40928765cbbb49f6741105.jar" />
+    </item>
+    <item
+        jar="G:\demo\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="G:\demo\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_8323eaf9faab2cc27a229fb966d8f45d9a278b04.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="G:\demo\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_573bcbd60399bb9318421b5cd7ccd3d6a77a6b61.jar" />
+    </item>
+    <item
+        jar="G:\demo\MagicIndicator-master\app\build\intermediates\exploded-aar\MagicIndicator-master\magicindicator\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9de4a3807cf6a4fa7569113dee617372945c1cdc">
+        <dex dex="G:\demo\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\MagicIndicator-master-magicindicator-unspecified_dcd1f733b4797bef80fc446ed5231128a98cc617.jar" />
+    </item>
+
+</items>
